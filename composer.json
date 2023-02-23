@@ -1,0 +1,16 @@
+{
+    "name": "yang-bg/first-package",
+    "description": "@@@@@@@@@",
+    "type": "library",
+    "require": {
+        "php": "7.*"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "liangzai.yang",
+            "email": "yangliangzai1992@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
