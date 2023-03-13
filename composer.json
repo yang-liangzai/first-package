@@ -1,11 +1,17 @@
 {
-    "name": "yang-bg/first-package",
-    "description": "@@@@@@@@@",
+    "name": "yangbg/first-package",
+    "description": "yangbg/first-package",
     "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Yangbg\\FirstPackage\\": "src/",
+            "Yangbg\\FirstPackageTest\\": "test/"
+        }
+    },
     "require": {
         "php": "7.*"
     },
-    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "liangzai.yang",

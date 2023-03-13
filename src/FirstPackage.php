@@ -1,10 +1,10 @@
 <?php
-namespace yang-bg\FirstPackage;
+namespace yangbg\FirstPackage;
 
 /**
  * 
  */
-class FirstPackage extends AnotherClass
+class FirstPackage
 {
     
     public function get_time(){
